@@ -1,0 +1,127 @@
+header{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding: 0;}
+    #texto{
+        display: inline;
+        font-size: 80px;
+        margin-left: 450px;
+        padding: 0%;
+        font-family:cursive;
+        color: rgba(97, 29, 29, 0.829);}
+    #encabezado{
+        float: right;
+        margin-top: 30px;
+        margin-right: 20px;
+        padding: 0%;}
+nav{
+    width: 100%;
+    height: 30px;
+    background-color: saddlebrown;
+    text-align: center;}
+    #ul{
+        list-style: none;
+    }
+        .list{
+            display: inline;
+            margin-left: 150px;
+        }
+        .list1{
+            text-decoration: none;
+            color: white;}
+ 
+#primero{
+    background-image: url(portada.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    margin-top: -99.9px;
+    color: white;
+    text-align: center;
+    font-size: 25px;}
+    .portada{
+        margin-top: 100px;}
+  #texto1{
+    margin-left: 80px;
+    color: red;}
+    #recomendaciones{  
+        height: 400px;
+        width: 95%;
+        margin-left: 50px;
+        margin-bottom: 20px;
+        display: flex;
+        text-align: center;
+        align-items: center;}
+        .image{
+            margin-left: 200px;}
+            .buton{
+                background-color: red;
+                font-size: 11px; }
+    #texto2{
+        margin-left: 80px;
+        color: red;}
+        #libros{
+            height: 400px;
+            width: 95%;
+            margin-left: 50px;
+            margin-bottom: 20px;
+            display: flex;
+            text-align: center;
+            align-items: center;
+            display: flex;
+            overflow-x: scroll;
+            scrollbar-width: auto;}
+            .image2{
+                margin-left: 150px;}
+            .precio{
+                display: inline;
+                margin: 0%;
+                margin-right: 5px;
+                color: brown;}
+                .buton2{
+                    background-color: red;
+                    font-size: 11px;}
+#cuarto{
+    height: 500px;}
+    #texto3{
+        color:red;
+        margin-top: 100px;
+        display: inline;}
+    #conocenos{
+        width: 45%;
+        margin-left: 80px;
+        float: left;
+        margin-top: 100px;}
+        #letras{
+            color: red;
+            text-align: center;}
+        #image3{
+            width: 45%;
+          float: right;
+          margin-top: 50px;}
+footer{
+    width: 100%;
+    height: 300px;
+    background-color: saddlebrown;}
+    #f1{  
+        width: 33%;
+        height: auto;
+        float: left;
+        color: white;}
+        .iconos{
+            display: inline;
+                margin: 0%;}
+        .img{
+            align-items: center;}
+
+    #f2{ 
+        width: 33.33%;
+        height: auto;
+        float: inline-start;
+        color: white;}
+    #f3{
+        width: 33.33%;
+        height: auto;
+        float: inline-end;
+        color: white;}
